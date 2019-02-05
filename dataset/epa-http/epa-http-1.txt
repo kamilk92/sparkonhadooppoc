@@ -1,0 +1,3 @@
+Get some 1
+Post some 1
+Put some 1
